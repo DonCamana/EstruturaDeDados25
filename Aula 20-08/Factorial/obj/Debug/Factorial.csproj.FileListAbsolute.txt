@@ -1,0 +1,8 @@
+C:\Users\Dhomi\OneDrive\Documentos\Codigos\facul\Aula 20-08\Factorial\bin\Debug\Factorial.exe.config
+C:\Users\Dhomi\OneDrive\Documentos\Codigos\facul\Aula 20-08\Factorial\bin\Debug\Factorial.exe
+C:\Users\Dhomi\OneDrive\Documentos\Codigos\facul\Aula 20-08\Factorial\bin\Debug\Factorial.pdb
+C:\Users\Dhomi\OneDrive\Documentos\Codigos\facul\Aula 20-08\Factorial\obj\Debug\Factorial.csproj.AssemblyReference.cache
+C:\Users\Dhomi\OneDrive\Documentos\Codigos\facul\Aula 20-08\Factorial\obj\Debug\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\Dhomi\OneDrive\Documentos\Codigos\facul\Aula 20-08\Factorial\obj\Debug\Factorial.exe
+C:\Users\Dhomi\OneDrive\Documentos\Codigos\facul\Aula 20-08\Factorial\obj\Debug\Factorial.pdb
+C:\Users\Dhomi\OneDrive\Documentos\Codigos\facul\Aula 20-08\Factorial\obj\Debug\Factorial.exe.config

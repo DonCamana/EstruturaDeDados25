@@ -1,0 +1,3 @@
+dotnet new console -n "*Nome do Projeto*"
+
+sdk = Software Develoment kit
