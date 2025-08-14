@@ -1,0 +1,14 @@
+D:\C.C\2025 2\Estrutura de Dados\Aula 06-08\Att\Arrays\bin\Debug\net9.0\Arrays.exe
+D:\C.C\2025 2\Estrutura de Dados\Aula 06-08\Att\Arrays\bin\Debug\net9.0\Arrays.deps.json
+D:\C.C\2025 2\Estrutura de Dados\Aula 06-08\Att\Arrays\bin\Debug\net9.0\Arrays.runtimeconfig.json
+D:\C.C\2025 2\Estrutura de Dados\Aula 06-08\Att\Arrays\bin\Debug\net9.0\Arrays.dll
+D:\C.C\2025 2\Estrutura de Dados\Aula 06-08\Att\Arrays\bin\Debug\net9.0\Arrays.pdb
+D:\C.C\2025 2\Estrutura de Dados\Aula 06-08\Att\Arrays\obj\Debug\net9.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\C.C\2025 2\Estrutura de Dados\Aula 06-08\Att\Arrays\obj\Debug\net9.0\Arrays.AssemblyInfoInputs.cache
+D:\C.C\2025 2\Estrutura de Dados\Aula 06-08\Att\Arrays\obj\Debug\net9.0\Arrays.AssemblyInfo.cs
+D:\C.C\2025 2\Estrutura de Dados\Aula 06-08\Att\Arrays\obj\Debug\net9.0\Arrays.csproj.CoreCompileInputs.cache
+D:\C.C\2025 2\Estrutura de Dados\Aula 06-08\Att\Arrays\obj\Debug\net9.0\Arrays.dll
+D:\C.C\2025 2\Estrutura de Dados\Aula 06-08\Att\Arrays\obj\Debug\net9.0\refint\Arrays.dll
+D:\C.C\2025 2\Estrutura de Dados\Aula 06-08\Att\Arrays\obj\Debug\net9.0\Arrays.pdb
+D:\C.C\2025 2\Estrutura de Dados\Aula 06-08\Att\Arrays\obj\Debug\net9.0\Arrays.genruntimeconfig.cache
+D:\C.C\2025 2\Estrutura de Dados\Aula 06-08\Att\Arrays\obj\Debug\net9.0\ref\Arrays.dll

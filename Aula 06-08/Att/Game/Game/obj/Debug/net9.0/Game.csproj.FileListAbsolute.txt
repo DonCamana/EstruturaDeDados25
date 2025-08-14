@@ -1,0 +1,4 @@
+d:\C.C\2025 2\Estrutura de Dados\Aula 06-08\Att\Game\Game\obj\Debug\net9.0\Game.GeneratedMSBuildEditorConfig.editorconfig
+d:\C.C\2025 2\Estrutura de Dados\Aula 06-08\Att\Game\Game\obj\Debug\net9.0\Game.AssemblyInfoInputs.cache
+d:\C.C\2025 2\Estrutura de Dados\Aula 06-08\Att\Game\Game\obj\Debug\net9.0\Game.AssemblyInfo.cs
+d:\C.C\2025 2\Estrutura de Dados\Aula 06-08\Att\Game\Game\obj\Debug\net9.0\Game.csproj.CoreCompileInputs.cache
