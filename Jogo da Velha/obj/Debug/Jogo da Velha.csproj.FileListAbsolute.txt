@@ -1,0 +1,8 @@
+C:\Users\Dhomi\OneDrive\Documentos\Codigos\facul\Jogo da Velha\bin\Debug\Jogo da Velha.exe.config
+C:\Users\Dhomi\OneDrive\Documentos\Codigos\facul\Jogo da Velha\bin\Debug\Jogo da Velha.exe
+C:\Users\Dhomi\OneDrive\Documentos\Codigos\facul\Jogo da Velha\bin\Debug\Jogo da Velha.pdb
+C:\Users\Dhomi\OneDrive\Documentos\Codigos\facul\Jogo da Velha\obj\Debug\Jogo da Velha.csproj.AssemblyReference.cache
+C:\Users\Dhomi\OneDrive\Documentos\Codigos\facul\Jogo da Velha\obj\Debug\Jogo da Velha.csproj.CoreCompileInputs.cache
+C:\Users\Dhomi\OneDrive\Documentos\Codigos\facul\Jogo da Velha\obj\Debug\Jogo da Velha.exe
+C:\Users\Dhomi\OneDrive\Documentos\Codigos\facul\Jogo da Velha\obj\Debug\Jogo da Velha.pdb
+C:\Users\Dhomi\OneDrive\Documentos\Codigos\facul\Jogo da Velha\obj\Debug\Jogo da Velha.exe.config
