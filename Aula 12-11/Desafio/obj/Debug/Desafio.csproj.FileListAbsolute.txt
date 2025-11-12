@@ -1,0 +1,8 @@
+C:\Users\Dhomi\OneDrive\Documentos\Codigos\facul\Aula 12-11\Desafio\bin\Debug\Desafio.exe.config
+C:\Users\Dhomi\OneDrive\Documentos\Codigos\facul\Aula 12-11\Desafio\bin\Debug\Desafio.exe
+C:\Users\Dhomi\OneDrive\Documentos\Codigos\facul\Aula 12-11\Desafio\bin\Debug\Desafio.pdb
+C:\Users\Dhomi\OneDrive\Documentos\Codigos\facul\Aula 12-11\Desafio\obj\Debug\Desafio.csproj.AssemblyReference.cache
+C:\Users\Dhomi\OneDrive\Documentos\Codigos\facul\Aula 12-11\Desafio\obj\Debug\Desafio.csproj.CoreCompileInputs.cache
+C:\Users\Dhomi\OneDrive\Documentos\Codigos\facul\Aula 12-11\Desafio\obj\Debug\Desafio.exe
+C:\Users\Dhomi\OneDrive\Documentos\Codigos\facul\Aula 12-11\Desafio\obj\Debug\Desafio.pdb
+C:\Users\Dhomi\OneDrive\Documentos\Codigos\facul\Aula 12-11\Desafio\obj\Debug\Desafio.exe.config
