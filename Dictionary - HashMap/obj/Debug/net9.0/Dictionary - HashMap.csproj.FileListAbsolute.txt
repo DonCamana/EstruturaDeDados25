@@ -1,0 +1,14 @@
+C:\Users\438859\Downloads\Atividade Dictionary - HashMap\Dictionary - HashMap\bin\Debug\net9.0\Dictionary - HashMap.exe
+C:\Users\438859\Downloads\Atividade Dictionary - HashMap\Dictionary - HashMap\bin\Debug\net9.0\Dictionary - HashMap.deps.json
+C:\Users\438859\Downloads\Atividade Dictionary - HashMap\Dictionary - HashMap\bin\Debug\net9.0\Dictionary - HashMap.runtimeconfig.json
+C:\Users\438859\Downloads\Atividade Dictionary - HashMap\Dictionary - HashMap\bin\Debug\net9.0\Dictionary - HashMap.dll
+C:\Users\438859\Downloads\Atividade Dictionary - HashMap\Dictionary - HashMap\bin\Debug\net9.0\Dictionary - HashMap.pdb
+C:\Users\438859\Downloads\Atividade Dictionary - HashMap\Dictionary - HashMap\obj\Debug\net9.0\Dictionary - HashMap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\438859\Downloads\Atividade Dictionary - HashMap\Dictionary - HashMap\obj\Debug\net9.0\Dictionary - HashMap.AssemblyInfoInputs.cache
+C:\Users\438859\Downloads\Atividade Dictionary - HashMap\Dictionary - HashMap\obj\Debug\net9.0\Dictionary - HashMap.AssemblyInfo.cs
+C:\Users\438859\Downloads\Atividade Dictionary - HashMap\Dictionary - HashMap\obj\Debug\net9.0\Dictionary - HashMap.csproj.CoreCompileInputs.cache
+C:\Users\438859\Downloads\Atividade Dictionary - HashMap\Dictionary - HashMap\obj\Debug\net9.0\Dictionary - HashMap.dll
+C:\Users\438859\Downloads\Atividade Dictionary - HashMap\Dictionary - HashMap\obj\Debug\net9.0\refint\Dictionary - HashMap.dll
+C:\Users\438859\Downloads\Atividade Dictionary - HashMap\Dictionary - HashMap\obj\Debug\net9.0\Dictionary - HashMap.pdb
+C:\Users\438859\Downloads\Atividade Dictionary - HashMap\Dictionary - HashMap\obj\Debug\net9.0\Dictionary - HashMap.genruntimeconfig.cache
+C:\Users\438859\Downloads\Atividade Dictionary - HashMap\Dictionary - HashMap\obj\Debug\net9.0\ref\Dictionary - HashMap.dll
